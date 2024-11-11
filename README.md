@@ -1,7 +1,7 @@
 # Best-Neighbourhoods-Big-Ideas-Final
 
 
-Team name:
+Team name: Burgh Walkers
 
 ## Names and Emails
 Ryan Evanik - rde21@pitt.edu\
