@@ -1,0 +1,15 @@
+_id,id,type
+1,id,text
+2,type,text
+3,street,text
+4,inactive,bool
+5,neighborhood,text
+6,council_district,text
+7,ward,text
+8,tract,text
+9,public_works_division,text
+10,pli_division,text
+11,police_zone,text
+12,fire_zone,text
+13,latitude,float
+14,longitude,float
